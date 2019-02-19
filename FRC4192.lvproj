@@ -114,20 +114,19 @@ AddOutputFilter chunkFilter
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Elapsed Times.vi"/>
 		</Item>
 		<Item Name="Team Code" Type="Folder">
-			<Item Name="Subsystems" Type="Folder">
+			<Item Name="Subroutines" Type="Folder">
+				<Item Name="Ball Intake Routine.vi" Type="VI" URL="../Subroutines/Ball Intake Routine.vi"/>
+				<Item Name="Lift Routine.vi" Type="VI" URL="../Subroutines/Lift Routine.vi"/>
 				<Item Name="Panel Routine.vi" Type="VI" URL="../Subroutines/Panel Routine.vi"/>
-				<Item Name="Solenoid Channel.ctl" Type="VI" URL="../Subroutines/Solenoid Channel.ctl"/>
 			</Item>
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
 			<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>
 			<Item Name="Disabled.vi" Type="VI" URL="../Disabled.vi"/>
 			<Item Name="Finish.vi" Type="VI" URL="../Finish.vi"/>
 			<Item Name="Periodic Tasks.vi" Type="VI" URL="../Periodic Tasks.vi"/>
-			<Item Name="PWMChannel.ctl" Type="VI" URL="../PWMChannel.ctl"/>
 			<Item Name="Robot Global Data.vi" Type="VI" URL="../Robot Global Data.vi"/>
 			<Item Name="Teleop.vi" Type="VI" URL="../Teleop.vi"/>
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
-			<Item Name="Untitled 2.vi" Type="VI" URL="../Untitled 2.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
 		<Item Name="Globals.vi" Type="VI" URL="../Globals.vi"/>
@@ -551,6 +550,7 @@ AddOutputFilter chunkFilter
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="PWMChannel.ctl" Type="VI" URL="../PWMChannel.ctl"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
