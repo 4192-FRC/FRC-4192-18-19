@@ -114,6 +114,11 @@ AddOutputFilter chunkFilter
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Elapsed Times.vi"/>
 		</Item>
 		<Item Name="Team Code" Type="Folder">
+			<Item Name="Control Binds" Type="Folder">
+				<Item Name="Button Bind.vi" Type="VI" URL="../Control Binds/Button Bind.vi"/>
+				<Item Name="Solenoid Bind.vi" Type="VI" URL="../Control Binds/Solenoid Bind.vi"/>
+				<Item Name="Variable Bind.vi" Type="VI" URL="../Control Binds/Variable Bind.vi"/>
+			</Item>
 			<Item Name="Subroutines" Type="Folder">
 				<Item Name="Ball Intake Routine.vi" Type="VI" URL="../Subroutines/Ball Intake Routine.vi"/>
 				<Item Name="Lift Routine.vi" Type="VI" URL="../Subroutines/Lift Routine.vi"/>
@@ -130,7 +135,6 @@ AddOutputFilter chunkFilter
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
-		<Item Name="Globals.vi" Type="VI" URL="../Globals.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -542,6 +546,7 @@ AddOutputFilter chunkFilter
 			<Item Name="FRC_NetworkCommunication.dll" Type="Document" URL="FRC_NetworkCommunication.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Globals.vi" Type="VI" URL="../Globals.vi"/>
 			<Item Name="NiFpgaLv.dll" Type="Document" URL="NiFpgaLv.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
