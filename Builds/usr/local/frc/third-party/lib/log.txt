@@ -1,0 +1,93 @@
+(137510)	[HTTP]System.Exception: Http GET timed out on http://172.22.11.2:1250/?&id=0&action=getversion after 500 ms
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.(String , Int32 )
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.HttpGet(HostNameAndPort hostName, String model, Byte deviceID, ActionType action, String& response, String extraOptions, Int32 timeout)
+(137510)	[BackEnd]Entered State:LostComm
+(138040)	[HTTP]System.Exception: Http GET timed out on http://172.22.11.2:1250/?&id=0&action=getversion after 500 ms
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.(String , Int32 )
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.HttpGet(HostNameAndPort hostName, String model, Byte deviceID, ActionType action, String& response, String extraOptions, Int32 timeout)
+(138040)	[BackEnd]Entered State:LostComm
+(138560)	[HTTP]System.Exception: Http GET timed out on http://172.22.11.2:1250/?&id=0&action=getversion after 500 ms
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.(String , Int32 )
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.HttpGet(HostNameAndPort hostName, String model, Byte deviceID, ActionType action, String& response, String extraOptions, Int32 timeout)
+(138560)	[BackEnd]Entered State:LostComm
+(139090)	[HTTP]System.Exception: Http GET timed out on http://172.22.11.2:1250/?&id=0&action=getversion after 500 ms
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.(String , Int32 )
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.HttpGet(HostNameAndPort hostName, String model, Byte deviceID, ActionType action, String& response, String extraOptions, Int32 timeout)
+(139090)	[BackEnd]Entered State:LostComm
+(139610)	[HTTP]System.Exception: Http GET timed out on http://172.22.11.2:1250/?&id=0&action=getversion after 500 ms
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.(String , Int32 )
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.HttpGet(HostNameAndPort hostName, String model, Byte deviceID, ActionType action, String& response, String extraOptions, Int32 timeout)
+(139610)	[BackEnd]Entered State:LostComm
+(140130)	[HTTP]System.Exception: Http GET timed out on http://172.22.11.2:1250/?&id=0&action=getversion after 500 ms
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.(String , Int32 )
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.HttpGet(HostNameAndPort hostName, String model, Byte deviceID, ActionType action, String& response, String extraOptions, Int32 timeout)
+(140130)	[BackEnd]Entered State:LostComm
+(140650)	[HTTP]System.Exception: Http GET timed out on http://172.22.11.2:1250/?&id=0&action=getversion after 500 ms
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.(String , Int32 )
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.HttpGet(HostNameAndPort hostName, String model, Byte deviceID, ActionType action, String& response, String extraOptions, Int32 timeout)
+(140650)	[BackEnd]Entered State:LostComm
+(141170)	[HTTP]System.Exception: Http GET timed out on http://172.22.11.2:1250/?&id=0&action=getversion after 500 ms
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.(String , Int32 )
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.HttpGet(HostNameAndPort hostName, String model, Byte deviceID, ActionType action, String& response, String extraOptions, Int32 timeout)
+(141170)	[BackEnd]Entered State:LostComm
+(141700)	[HTTP]System.Exception: Http GET timed out on http://172.22.11.2:1250/?&id=0&action=getversion after 500 ms
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.(String , Int32 )
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.HttpGet(HostNameAndPort hostName, String model, Byte deviceID, ActionType action, String& response, String extraOptions, Int32 timeout)
+(141700)	[BackEnd]Entered State:LostComm
+(142220)	[HTTP]System.Exception: Http GET timed out on http://172.22.11.2:1250/?&id=0&action=getversion after 500 ms
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.(String , Int32 )
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.HttpGet(HostNameAndPort hostName, String model, Byte deviceID, ActionType action, String& response, String extraOptions, Int32 timeout)
+(142220)	[BackEnd]Entered State:LostComm
+(142740)	[HTTP]System.Exception: Http GET timed out on http://172.22.11.2:1250/?&id=0&action=getversion after 500 ms
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.(String , Int32 )
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.HttpGet(HostNameAndPort hostName, String model, Byte deviceID, ActionType action, String& response, String extraOptions, Int32 timeout)
+(142740)	[BackEnd]Entered State:LostComm
+(143270)	[HTTP]System.Exception: Http GET timed out on http://172.22.11.2:1250/?&id=0&action=getversion after 500 ms
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.(String , Int32 )
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.HttpGet(HostNameAndPort hostName, String model, Byte deviceID, ActionType action, String& response, String extraOptions, Int32 timeout)
+(143270)	[BackEnd]Entered State:LostComm
+(143790)	[HTTP]System.Exception: Http GET timed out on http://172.22.11.2:1250/?&id=0&action=getversion after 500 ms
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.(String , Int32 )
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.HttpGet(HostNameAndPort hostName, String model, Byte deviceID, ActionType action, String& response, String extraOptions, Int32 timeout)
+(143790)	[BackEnd]Entered State:LostComm
+(144320)	[HTTP]System.Exception: Http GET timed out on http://172.22.11.2:1250/?&id=0&action=getversion after 500 ms
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.(String , Int32 )
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.HttpGet(HostNameAndPort hostName, String model, Byte deviceID, ActionType action, String& response, String extraOptions, Int32 timeout)
+(144320)	[BackEnd]Entered State:LostComm
+(144850)	[HTTP]System.Exception: Http GET timed out on http://172.22.11.2:1250/?&id=0&action=getversion after 500 ms
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.(String , Int32 )
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.HttpGet(HostNameAndPort hostName, String model, Byte deviceID, ActionType action, String& response, String extraOptions, Int32 timeout)
+(144850)	[BackEnd]Entered State:LostComm
+(145370)	[HTTP]System.Exception: Http GET timed out on http://172.22.11.2:1250/?&id=0&action=getversion after 500 ms
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.(String , Int32 )
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.HttpGet(HostNameAndPort hostName, String model, Byte deviceID, ActionType action, String& response, String extraOptions, Int32 timeout)
+(145370)	[BackEnd]Entered State:LostComm
+(145890)	[HTTP]System.Exception: Http GET timed out on http://172.22.11.2:1250/?&id=0&action=getversion after 500 ms
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.(String , Int32 )
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.HttpGet(HostNameAndPort hostName, String model, Byte deviceID, ActionType action, String& response, String extraOptions, Int32 timeout)
+(145890)	[BackEnd]Entered State:LostComm
+(146420)	[HTTP]System.Exception: Http GET timed out on http://172.22.11.2:1250/?&id=0&action=getversion after 500 ms
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.(String , Int32 )
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.HttpGet(HostNameAndPort hostName, String model, Byte deviceID, ActionType action, String& response, String extraOptions, Int32 timeout)
+(146420)	[BackEnd]Entered State:LostComm
+(146950)	[HTTP]System.Exception: Http GET timed out on http://172.22.11.2:1250/?&id=0&action=getversion after 500 ms
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.(String , Int32 )
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.HttpGet(HostNameAndPort hostName, String model, Byte deviceID, ActionType action, String& response, String extraOptions, Int32 timeout)
+(146950)	[BackEnd]Entered State:LostComm
+(147480)	[HTTP]System.Exception: Http GET timed out on http://172.22.11.2:1250/?&id=0&action=getversion after 500 ms
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.(String , Int32 )
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.HttpGet(HostNameAndPort hostName, String model, Byte deviceID, ActionType action, String& response, String extraOptions, Int32 timeout)
+(147480)	[BackEnd]Entered State:LostComm
+(147810)	[GUI]Shutting Down Backend...
+(147810)	[BackEnd]Requesting Disposing State
+(148000)	[HTTP]System.Exception: Http GET timed out on http://172.22.11.2:1250/?&id=0&action=getversion after 500 ms
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.(String , Int32 )
+   at CTRE.Phoenix.Diagnostics.HTTP.WebExchange.HttpGet(HostNameAndPort hostName, String model, Byte deviceID, ActionType action, String& response, String extraOptions, Int32 timeout)
+(148000)	[BackEnd]Entered State:LostComm
+(148000)	[BackEnd]Entered Disposing State
+(148000)	[BackEnd]Waiting for Disposed confirmation.
+(148020)	[BackEnd]Entered State:Disposed
+(148060)	[BackEnd]Disposed confirmation received
+(148080)	[BackEnd]Thread0 shutdown complete
+(148110)	[BackEnd]Thread1 shutdown complete
+(148210)	[BackEnd]Thread2 shutdown complete
