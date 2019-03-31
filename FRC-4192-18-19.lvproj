@@ -18,7 +18,7 @@
 	</Item>
 	<Item Name="Target" Type="RT myRIO">
 		<Property Name="alias.name" Type="Str">Target</Property>
-		<Property Name="alias.value" Type="Str">10.41.92.2</Property>
+		<Property Name="alias.value" Type="Str">roborio-4192-frc.local</Property>
 		<Property Name="CCSymbols" Type="Str">OS,Linux;CPU,ARM;DeviceCode,76F2;TARGET_TYPE,RT;</Property>
 		<Property Name="crio.ControllerPID" Type="Str">76F2</Property>
 		<Property Name="crio.family" Type="Str">ARMLinux</Property>
@@ -107,13 +107,9 @@ AddOutputFilter chunkFilter
 				<Item Name="Button Bind.vi" Type="VI" URL="../Control Binds/Button Bind.vi"/>
 				<Item Name="Dual Button Bind.vi" Type="VI" URL="../Control Binds/Dual Button Bind.vi"/>
 				<Item Name="Dual Variable Bind.vi" Type="VI" URL="../Control Binds/Dual Variable Bind.vi"/>
-				<Item Name="Panel Bind.vi" Type="VI" URL="../Control Binds/Panel Bind.vi"/>
-				<Item Name="Plunger Bind.vi" Type="VI" URL="../Control Binds/Plunger Bind.vi"/>
 				<Item Name="Solenoid Bind.vi" Type="VI" URL="../Control Binds/Solenoid Bind.vi"/>
-				<Item Name="Splay Bind.vi" Type="VI" URL="../Control Binds/Splay Bind.vi"/>
 				<Item Name="Sync Bind.vi" Type="VI" URL="../Control Binds/Sync Bind.vi"/>
 				<Item Name="Variable Bind.vi" Type="VI" URL="../Control Binds/Variable Bind.vi"/>
-				<Item Name="Wrist Bind.vi" Type="VI" URL="../Control Binds/Wrist Bind.vi"/>
 			</Item>
 			<Item Name="Autonomous Independent.vi" Type="VI" URL="../Autonomous Independent.vi"/>
 			<Item Name="Begin.vi" Type="VI" URL="../Begin.vi"/>
@@ -683,6 +679,10 @@ AddOutputFilter chunkFilter
 			<Item Name="nivissvc.dll" Type="Document" URL="nivissvc.dll">
 				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
 			</Item>
+			<Item Name="Panel Bind.vi" Type="VI" URL="../Control Binds/Panel Bind.vi"/>
+			<Item Name="Plunger Bind.vi" Type="VI" URL="../Control Binds/Plunger Bind.vi"/>
+			<Item Name="Splay Bind.vi" Type="VI" URL="../Control Binds/Splay Bind.vi"/>
+			<Item Name="Wrist Bind.vi" Type="VI" URL="../Control Binds/Wrist Bind.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build">
 			<Item Name="FRC Robot Boot-up Deployment" Type="{69A947D5-514E-4E75-818E-69657C0547D8}">
@@ -700,7 +700,7 @@ AddOutputFilter chunkFilter
 				<Property Name="Bld_localDestDirType" Type="Str">relativeToProject</Property>
 				<Property Name="Bld_previewCacheID" Type="Str">{6782B190-04E1-4A41-93AB-3F357B35791E}</Property>
 				<Property Name="Bld_targetDestDir" Type="Path">/home/lvuser/natinst/bin</Property>
-				<Property Name="Bld_version.build" Type="Int">8</Property>
+				<Property Name="Bld_version.build" Type="Int">22</Property>
 				<Property Name="Bld_version.major" Type="Int">1</Property>
 				<Property Name="Destination[0].destName" Type="Str">startup.rtexe</Property>
 				<Property Name="Destination[0].path" Type="Path">/home/lvuser/natinst/bin/startup.rtexe</Property>
